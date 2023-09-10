@@ -1,6 +1,10 @@
 body {
   font-family: "Work Sans", sans-serif;
 }
+a {
+	  color: var(--bs-wite);
+  text-decoration: none;
+}
 a:hover {
 	transition: 0.3s;
 }
