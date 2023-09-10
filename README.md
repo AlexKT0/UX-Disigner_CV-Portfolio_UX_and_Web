@@ -1,4 +1,4 @@
-<div align='center'><img src='https://LINK'/></div>
+<div align='center'><img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/logo.jpg'/></div>
 
 <h1>About the project</h1>
 
@@ -14,9 +14,9 @@
 <p>	<b>Projects in modal windows:</b> One of the key features of this site is the way the work is presented. By clicking on a project block, you can open a modal window that presents detailed information about the project.</p>
 	
 <p>	<b>W3C Validator Validation and Adaptability:</b> Our project passes the W3C Validator Validation with a perfect score, which ensures that it meets web development standards. The site is also adaptive, allowing you to enjoy it on a variety of devices.</p>
-	<div align='center'><img src='https://LINK'/></div>
+	<div align='center'><img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/w3c.jpg'/></div>
 <p>	<b>Interactivity and Usability:</b> I strived to create an interactive interface that allows you to quickly and easily familiarize yourself with the works.</p>
-👉 Live Demo: <a href='https://LINK/'>Front-end and UX Designer Portfolio</a>
+👉 Live Demo: <a href='https://kpatoc33.github.io/UX-Disigner_CV-Portfolio_UX_and_Web/'>Front-end and UX Designer Portfolio</a>
 
 <h2>Română</h2>
 <p>
@@ -30,9 +30,9 @@
 <p>	<b>Proiecte în ferestre modale:</b> Una dintre caracteristicile cheie ale acestui site este modul în care sunt prezentate lucrările. Făcând clic pe blocul proiectului, puteți deschide o fereastră modală care prezintă informații detaliate despre proiect.</p>
 	
 <p>	<b>Validare W3C Validator și adaptabilitate:</b> Proiectul nostru trece validarea W3C Validator cu un scor perfect, ceea ce asigură că respectă standardele de dezvoltare web. De asemenea, site-ul este adaptabil, ceea ce vă permite să vă bucurați de el pe o varietate de dispozitive.</p>
-	<div align='center'><img src='https://LINK'/></div>
+	<div align='center'><img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/w3c.jpg'/></div>
 <p>	<b>Interactivitate și utilizabilitate:</b> M-am străduit să creez o interfață interactivă care să vă permită să vă familiarizați rapid și ușor cu lucrările.</p>
-👉 Live Demo: <a href='https://LINK/'>Front-end and UX Designer Portfolio</a>
+👉 Live Demo: <a href='https://kpatoc33.github.io/UX-Disigner_CV-Portfolio_UX_and_Web/'>Front-end and UX Designer Portfolio</a>
 
 <h2>Русский</h2>
 <p>
@@ -46,10 +46,9 @@
 <p>	<b>Проекты в модальных окнах:</b> Одной из ключевых особенностей этого сайта является способ представления работ. Нажав на блок с проектом, вы можете открыть модальное окно, где представлена подробная информация о проекте.</p>
 	
 <p>	<b>Проверка W3C Validator и адаптивность:</b> Наш проект проходит проверку W3C Validator на отлично, что гарантирует его соответствие стандартам веб-разработки. Сайт также адаптивен, что позволяет наслаждаться им на различных устройствах.</p>
-	<div align='center'><img src='https://LINK'/></div>
+	<div align='center'><img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/w3c.jpg'/></div>
 <p>	<b>Интерактивность и удобство использования:</b> Я стремился создать интерактивный интерфейс, который позволяет вам легко и быстро ознакомиться с  работами.</p>
-
-👉 Live Demo: <a href='https://LINK/'>Front-end and UX Designer Portfolio</a>
+👉 Live Demo: <a href='https://kpatoc33.github.io/UX-Disigner_CV-Portfolio_UX_and_Web/'>Front-end and UX Designer Portfolio</a>
 
 
 <div align='center'>
@@ -71,9 +70,22 @@
 
 
 <h2>Screenshots of the Project 📸</h2>
+<h4 align='center'>Desktop|Tablet|Mobile</h4>
 <br>
-<h3 align='center'>🔥 Landing page 🔥</h3>
+<h3 align='center'>🔥Desktop🔥</h3>
 
 <div align='center'>
-<img src='https://LINK/>
+<img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/scrin.jpg'>
+</div>
+
+<h3 align='center'>🔥Tablet🔥</h3>
+
+<div align='center'>
+<img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/scrin-tablet.jpg'>
+</div>
+
+<h3 align='center'>🔥Mobile🔥</h3>
+
+<div align='center'>
+<img src='https://raw.githubusercontent.com/KPATOC33/UX-Disigner_CV-Portfolio_UX_and_Web/develop/assets/img/scrin-mob.jpg'>
 </div>
